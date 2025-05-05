@@ -1,6 +1,6 @@
 ---
 
-```markdown
+```
 # Netflix Clone 🎬
 
 A responsive and visually appealing Netflix clone built using React.js. This project replicates the front-end UI of Netflix, including features like a hero banner, movie rows, trailer playback, and more — all powered by the TMDB (The Movie Database) API.
